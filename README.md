@@ -17,7 +17,6 @@ Sentence3 : at the end of this speech , luther raised his arm `` in the traditio
 Question3 : where was the republica cafe found in the UNK palace of UNK?
 
 Sentence4 : the largest of these is the eldon square shopping centre , one of the largest city centre shopping complexes in the uk .
-
 Question4 : what is the largest lake in london UNK?
 
 Sentence5 : inflammation is one of the first responses of the immune system to infection .
