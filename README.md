@@ -7,6 +7,7 @@ Du et al.,( 2017 ).Learning to Ask : Neural Question Generation for Reading Comp
 
 
 Result
+
 Sentence1 : johann eck , speaking on behalf of the empire as assistant of the archbishop of trier , presented luther with copies of his writings laid out on a table and asked him if the books were his , and whether he stood by their contents . 
 Question1 : who was the father of UNK UNK?
 
