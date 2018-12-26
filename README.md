@@ -9,6 +9,7 @@ Test
 도커에서 확인이 가능하다.
 
 docker pull minyelee/dok2qa:0.3
+
 docker run -it --runtime=nvidia --rm minyelee/dok2qa:0.3 python main.py
 
 Result
