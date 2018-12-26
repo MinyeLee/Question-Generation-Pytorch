@@ -5,6 +5,10 @@ Pytorch는 Define-by-Run 방식으로 유연한 딥러닝 프레임워크를 제
 
 Du et al.,( 2017 ).Learning to Ask : Neural Question Generation for Reading Comprehension
 
+Test
+도커에서 확인이 가능하다.
+docker pull minyelee/dok2qa:0.3
+docker run -it --runtime=nvidia --rm minyelee/dok2qa:0.3 python main.py
 
 Result
 
