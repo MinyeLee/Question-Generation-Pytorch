@@ -28,3 +28,4 @@ Sentence5 : inflammation is one of the first responses of the immune system to i
 
 Question5 : what is the first system to use the system called UNK?
 
+![Screenshot](result.png)
