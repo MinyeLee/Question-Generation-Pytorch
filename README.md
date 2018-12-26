@@ -9,17 +9,22 @@ Du et al.,( 2017 ).Learning to Ask : Neural Question Generation for Reading Comp
 Result
 
 Sentence1 : johann eck , speaking on behalf of the empire as assistant of the archbishop of trier , presented luther with copies of his writings laid out on a table and asked him if the books were his , and whether he stood by their contents . 
+
 Question1 : who was the father of UNK UNK?
 
 Sentence2 : he prayed , consulted friends , and gave his response the next day : 
+
 Question2 : what was the name of the person that worked for the first high school in the 1980s UNK?
 
 Sentence3 : at the end of this speech , luther raised his arm `` in the traditional salute of a knight winning a bout . ''
+
 Question3 : where was the republica cafe found in the UNK palace of UNK?
 
 Sentence4 : the largest of these is the eldon square shopping centre , one of the largest city centre shopping complexes in the uk .
+
 Question4 : what is the largest lake in london UNK?
 
 Sentence5 : inflammation is one of the first responses of the immune system to infection .
+
 Question5 : what is the first system to use the system called UNK?
 
